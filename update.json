@@ -1,0 +1,13 @@
+{
+  "Version": "21.33.322",
+  "Title": "UPDATE AVAILABLE",
+  "Subtitle": "New Version 21.33.322",
+  "Features": "Fixed Bugs, Enhanced Features",
+  "Description": "A new version is available with improved performance and important fixes.",
+  "BtnLater": "LATER",
+  "BtnUpdate": "UPDATE",
+  "Url": "https://discord.gg/w3s9PjgvCt",
+  "ForceUpdate": false,
+  "Reminder": "2h",
+  "BtnTimer": 0
+}
